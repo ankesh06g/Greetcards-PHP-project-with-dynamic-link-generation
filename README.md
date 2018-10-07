@@ -18,9 +18,10 @@ All copyrights reserved by GreetCards 2018
                                                               -> index.php
 4. Start all services of xampp from xampp panel.
 5. Now create new database in phpmyadmin
-6. Open C://xampp/htdocs/greetcards/database/greetcards.sql copy all contain and paste it on sql panel of your database. 
+6. Open C://xampp/htdocs/greetcards/database/**greetcards.sql** copy all contain and paste it on sql panel of your database. 
     **Note: Don't import greetcards.sql file because size of file is larger.**
-7. Now your project is ready to run
+7. Change database username and password, if you have changed or keep as it is in **database/db.inc.php**
+8. Now your project is ready to run
     open this link on your browser http://localhost/greetcards
     
 Thank You for your support!!!
