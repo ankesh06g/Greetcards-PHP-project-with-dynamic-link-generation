@@ -28,7 +28,7 @@ Thank You for your support!!!
 
 **Please follow us on:**
 
-https://www.facebook.com/CompRepository-457159251436485
-https://www.youtube.com/channel/UCajCBee6FiNo-gRHoGd-PCA
-https://twitter.com/Ankesh_AAG
-https://github.com/ankesh06g
+https://www.facebook.com/InvertBitt/  </br>
+https://youtu.be/dPcJc_htxw8  </br>
+https://twitter.com/Ankesh_AAG  </br>
+https://github.com/ankesh06g  </br>
